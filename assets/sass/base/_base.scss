@@ -1,0 +1,31 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-family: sans-serif;
+  color: #444;
+}
+
+h1 {
+  font-size: 3.6rem;
+  text-align: center;
+  margin-bottom: 3.2rem;
+}
+
+.container {
+  max-width: 60rem;
+  margin: 0 auto;
+}

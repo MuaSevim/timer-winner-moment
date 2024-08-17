@@ -1,0 +1,14 @@
+{
+  "name": "time-winner-moment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass assets/sass/main.scss assets/css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
