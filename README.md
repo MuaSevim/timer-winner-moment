@@ -1,0 +1,1 @@
+- Simple vanilla PHP and JavaScript app to detect winner users in small scale lotteries
